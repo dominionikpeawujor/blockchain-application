@@ -1,0 +1,16 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "Learning what express is about",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log(\"running\")"
+  },
+  "keywords": [
+    "test",
+    "express",
+    "javascript"
+  ],
+  "author": "Dominion Ikpeawujor",
+  "license": "ISC"
+}

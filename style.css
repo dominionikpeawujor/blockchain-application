@@ -1,0 +1,12 @@
+html,body {
+    margin: auto;
+    background-color: rgb(12, 26, 105);
+    font-family: "Montserrat";
+}
+
+h1 {
+    color: aliceblue;
+    font-size: 2rem;
+    text-align: center;
+    margin: auto;
+}
